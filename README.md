@@ -1,4 +1,5 @@
  Vendor & Brand Performance Analysis
+ Note- The analysis has been done based on the data in vendor_sales_summary.csv. This can be used to run the Vendor Performance Analysis notebook. The original data has not been uploaded due to large size, and needs not be uploaded as the origianl data has been cleaned and standardised for analysis purpose in vendor_sales_summary.csv
 
 An end-to-end analytics project built using SQL, Python, and Power BI to evaluate vendor and brand performance, uncover profitability drivers, and support data-driven procurement and revenue decisions.
 
